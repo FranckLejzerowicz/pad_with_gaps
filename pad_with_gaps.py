@@ -35,6 +35,6 @@ def pad_with_gaps():
     o.close()
     print 'Output'
     print filou
-
+    return 0
 
 pad_with_gaps()
